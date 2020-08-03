@@ -1,3 +1,3 @@
 # Login-Hash
 
-Sistema de login com senha criptografa com HASH.
+Sistema de login com senha criptografia com HASH.
